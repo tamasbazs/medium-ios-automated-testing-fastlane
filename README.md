@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/coletiv/medium-ios-automated-testing-fastlane.svg?branch=master)](https://travis-ci.org/coletiv/medium-ios-automated-testing-fastlane)
 
-# Notes
+# My Notes
 
 This repository contains a sample project called Notes, a simple application where you can add/remove/edit personal notes. 
 
